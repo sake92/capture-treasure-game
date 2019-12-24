@@ -9,7 +9,6 @@
 	<packaging>jar</packaging>
 
 	<name>capture-treasure-game</name>
-	<description>SWE Project Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
