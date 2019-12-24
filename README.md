@@ -5,4 +5,4 @@
 
 
 
-![screenshot](https://github.com/sake92/capture-treasure-game/screenshots/screenshot1.png)
+![screenshot](https://github.com/sake92/capture-treasure-game/blob/master/screenshots/screenshot1.png)
